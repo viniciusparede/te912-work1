@@ -1,1 +1,6 @@
-# te912-work1
+# Digital Signal Processing II - Experiment I
+Team: Arthur Munhoz and Vinícius Parede
+
+University: Universidade Federal do Paraná (UFPR)
+
+
